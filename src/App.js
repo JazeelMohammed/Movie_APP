@@ -9,10 +9,10 @@ import Comedymovies from './Pages/Comedymovies';
 function App() {
   return (
     <div>
-      {/* <Header /> */}
+      <Header />
       <Url />
-      {/* <Popularmovies /> */}
-      {/* <Latestmovies/> */}
+      <Popularmovies />
+      <Latestmovies/>
       <Comedymovies />
     </div>
   );
